@@ -9,19 +9,37 @@ namespace CA_ProductCrud.Classes
 {
     internal class Supplier:BaseClass
     {
-        private static int _Idsayac = 0;
+        public static int _Idsayac = 0;
+        public int _id;
 
         public Supplier()
         {
-            Id = ++_Idsayac;
+            _id = ++_Idsayac;
         }
-        public int Id { get; set; }
+
+        public int Id
+        {
+            get { return _id; }
+        }
         public string CompanyName { get; set; }
         public string ContactName { get; set; }
         public string PhoneNumber { get; set; }
 
+        public Supplier(string name, string contact , string phone)
+        {
+            CompanyName = name;
+            ContactName = contact;
+            PhoneNumber = phone;
+            _id = ++_Idsayac;
+        }
 
-       
+        public override string ToString()
+        {
+            return $"Id: {Id} Company: {CompanyName}  Contact: {ContactName}  Phone Number: {PhoneNumber}";
+        }
+
+
+
 
     }
 }

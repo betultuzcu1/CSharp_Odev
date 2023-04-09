@@ -1,0 +1,8 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\06.04.2023\CA_ProductCrud\CA_ProductCrud\bin\Debug\CA_ProductCrud.exe.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\06.04.2023\CA_ProductCrud\CA_ProductCrud\bin\Debug\CA_ProductCrud.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\06.04.2023\CA_ProductCrud\CA_ProductCrud\bin\Debug\CA_ProductCrud.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\06.04.2023\CA_ProductCrud\CA_ProductCrud\obj\Debug\CA_ProductCrud.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\06.04.2023\CA_ProductCrud\CA_ProductCrud\obj\Debug\CA_ProductCrud.csproj.SuggestedBindingRedirects.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\06.04.2023\CA_ProductCrud\CA_ProductCrud\obj\Debug\CA_ProductCrud.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\06.04.2023\CA_ProductCrud\CA_ProductCrud\obj\Debug\CA_ProductCrud.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\06.04.2023\CA_ProductCrud\CA_ProductCrud\obj\Debug\CA_ProductCrud.pdb
