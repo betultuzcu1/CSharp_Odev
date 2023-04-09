@@ -1,0 +1,8 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_DR\CA_DR\bin\Debug\CA_DR.exe.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_DR\CA_DR\bin\Debug\CA_DR.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_DR\CA_DR\bin\Debug\CA_DR.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_DR\CA_DR\obj\Debug\CA_DR.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_DR\CA_DR\obj\Debug\CA_DR.csproj.SuggestedBindingRedirects.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_DR\CA_DR\obj\Debug\CA_DR.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_DR\CA_DR\obj\Debug\CA_DR.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_DR\CA_DR\obj\Debug\CA_DR.pdb

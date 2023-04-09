@@ -1,0 +1,8 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\30.03.2023\CA_odevToplam\CA_odevToplam\bin\Debug\CA_odevToplam.exe.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\30.03.2023\CA_odevToplam\CA_odevToplam\bin\Debug\CA_odevToplam.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\30.03.2023\CA_odevToplam\CA_odevToplam\bin\Debug\CA_odevToplam.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\30.03.2023\CA_odevToplam\CA_odevToplam\obj\Debug\CA_odevToplam.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\30.03.2023\CA_odevToplam\CA_odevToplam\obj\Debug\CA_odevToplam.csproj.SuggestedBindingRedirects.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\30.03.2023\CA_odevToplam\CA_odevToplam\obj\Debug\CA_odevToplam.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\30.03.2023\CA_odevToplam\CA_odevToplam\obj\Debug\CA_odevToplam.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\30.03.2023\CA_odevToplam\CA_odevToplam\obj\Debug\CA_odevToplam.pdb

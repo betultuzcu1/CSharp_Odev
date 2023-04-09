@@ -1,0 +1,8 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_Kitaplık\CA_Kitaplık\bin\Debug\CA_Kitaplık.exe.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_Kitaplık\CA_Kitaplık\bin\Debug\CA_Kitaplık.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_Kitaplık\CA_Kitaplık\bin\Debug\CA_Kitaplık.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_Kitaplık\CA_Kitaplık\obj\Debug\CA_Kitaplık.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_Kitaplık\CA_Kitaplık\obj\Debug\CA_Kitaplık.csproj.SuggestedBindingRedirects.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_Kitaplık\CA_Kitaplık\obj\Debug\CA_Kitaplık.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_Kitaplık\CA_Kitaplık\obj\Debug\CA_Kitaplık.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\03.04.2023\CA_Kitaplık\CA_Kitaplık\obj\Debug\CA_Kitaplık.pdb

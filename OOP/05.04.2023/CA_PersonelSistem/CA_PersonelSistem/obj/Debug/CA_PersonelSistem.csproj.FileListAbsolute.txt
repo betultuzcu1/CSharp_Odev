@@ -1,0 +1,8 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\05.04.2023\CA_PersonelSistem\CA_PersonelSistem\bin\Debug\CA_PersonelSistem.exe.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\05.04.2023\CA_PersonelSistem\CA_PersonelSistem\bin\Debug\CA_PersonelSistem.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\05.04.2023\CA_PersonelSistem\CA_PersonelSistem\bin\Debug\CA_PersonelSistem.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\05.04.2023\CA_PersonelSistem\CA_PersonelSistem\obj\Debug\CA_PersonelSistem.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\05.04.2023\CA_PersonelSistem\CA_PersonelSistem\obj\Debug\CA_PersonelSistem.csproj.SuggestedBindingRedirects.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\05.04.2023\CA_PersonelSistem\CA_PersonelSistem\obj\Debug\CA_PersonelSistem.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\05.04.2023\CA_PersonelSistem\CA_PersonelSistem\obj\Debug\CA_PersonelSistem.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\05.04.2023\CA_PersonelSistem\CA_PersonelSistem\obj\Debug\CA_PersonelSistem.pdb
