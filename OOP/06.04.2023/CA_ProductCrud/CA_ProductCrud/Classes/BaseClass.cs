@@ -8,7 +8,6 @@ namespace CA_ProductCrud.Classes
 {
     internal class BaseClass
     {
-        //todo: her bir nesne oluşturulduğunda ID otomatik artacak.
         public BaseClass()
         {
 

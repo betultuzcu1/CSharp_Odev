@@ -9,11 +9,7 @@ namespace CA_ProductCrud.Data
 {
     internal class CategoryData
     {
-        public static List<Category> categories = new List<Category>()
-        {
-            new Category{CategoryName="Beverages"},
-            new Category{CategoryName="Condiments"}
-
-        };
+        public static List<Category> categories = new List<Category>();
+        
     }
 }

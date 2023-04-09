@@ -9,21 +9,7 @@ namespace CA_ProductCrud.Data
 {
     internal class ProductData
     {
-        public static List<Product> products = new List<Product>()
-        {
-            new Product
-            {
-                ProductName="Chai",
-                UnitPrice=15,
-                UnitsInStock=200
-            },
-            new Product
-            {
-                ProductName="Chang",
-                UnitPrice=18,
-                UnitsInStock=250
-            }
-
-        };
+        public static List<Product> products = new List<Product>();
+        
     }
 }
