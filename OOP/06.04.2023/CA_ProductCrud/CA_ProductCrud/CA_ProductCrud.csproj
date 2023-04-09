@@ -49,6 +49,7 @@
     <Compile Include="Classes\Supplier.cs" />
     <Compile Include="Data\CategoryData.cs" />
     <Compile Include="Data\ProductData.cs" />
+    <Compile Include="Data\SupplierData.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

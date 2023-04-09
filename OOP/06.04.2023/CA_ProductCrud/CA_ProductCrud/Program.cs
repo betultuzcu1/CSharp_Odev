@@ -14,14 +14,6 @@ namespace CA_ProductCrud
     {
         static void Main(string[] args)
         {
-            Category category1 = new Category { CategoryName = "Elektronik", Description = "Elektronik ürünler" };
-            Category category2 = new Category { CategoryName = "Kitap", Description = "Kitaplar" };
-
-            Product product1 = new Product { ProductName = "Laptop", UnitPrice = 5000, UnitsInStock = 10};
-            Product product2 = new Product { ProductName = "Telefon", UnitPrice = 3000, UnitsInStock = 20, };
-            Product product3 = new Product { ProductName = "Roman", UnitPrice = 50, UnitsInStock = 30};
-            Product product4 = new Product { ProductName = "Bilim Kitabı", UnitPrice = 100, UnitsInStock = 40 };
-
             categories.Add(category1);
             categories.Add(category2);
 
@@ -30,7 +22,7 @@ namespace CA_ProductCrud
             products.Add(product3);
             products.Add(product4);
 
-            // Her bir ürün ve kategori için otomatik olarak artan Id'leri konsola yazdıralım
+            
             foreach (var category in categories)
             {
                 Console.WriteLine("Category Id: " + category.Id);
