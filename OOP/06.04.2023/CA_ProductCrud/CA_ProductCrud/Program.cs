@@ -22,6 +22,9 @@ namespace CA_ProductCrud
             products.Add(product3);
             products.Add(product4);
 
+            suppliers.Add(suppliers);
+
+
             
             foreach (var category in categories)
             {
