@@ -1,0 +1,8 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\10.04.2023\CA_FutbolTakımı\CA_FutbolTakımı\bin\Debug\CA_FutbolTakımı.exe.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\10.04.2023\CA_FutbolTakımı\CA_FutbolTakımı\bin\Debug\CA_FutbolTakımı.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\10.04.2023\CA_FutbolTakımı\CA_FutbolTakımı\bin\Debug\CA_FutbolTakımı.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\10.04.2023\CA_FutbolTakımı\CA_FutbolTakımı\obj\Debug\CA_FutbolTakımı.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\10.04.2023\CA_FutbolTakımı\CA_FutbolTakımı\obj\Debug\CA_FutbolTakımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\10.04.2023\CA_FutbolTakımı\CA_FutbolTakımı\obj\Debug\CA_FutbolTakımı.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\10.04.2023\CA_FutbolTakımı\CA_FutbolTakımı\obj\Debug\CA_FutbolTakımı.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\10.04.2023\CA_FutbolTakımı\CA_FutbolTakımı\obj\Debug\CA_FutbolTakımı.pdb
