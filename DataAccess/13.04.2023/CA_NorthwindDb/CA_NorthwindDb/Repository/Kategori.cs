@@ -10,6 +10,8 @@ namespace CA_NorthwindDb.Repository
 {
     internal class Kategori
     {
+        NORTHWNDEntities db = new NORTHWNDEntities();
+
         CategoryCrud categoryCrud = new CategoryCrud();
         public void KategorıIslemlerı()
         {
@@ -44,7 +46,8 @@ namespace CA_NorthwindDb.Repository
                     updateCategory.CategoryName = Console.ReadLine();
                     Console.Write("Lütfen açıklma giriniz:");
                     updateCategory.Description = Console.ReadLine();
-                    Console.WriteLine($"{updateCategory.CategoryID} ID'li kategoriyi güncellemek istediğinizden emin misiiz?(e/h)");
+                    var value=db.Categories.Where(c => c.CategoryID == updateCategory.CategoryID).Select(c => c.CategoryName).FirstOrDefault();
+                    Console.WriteLine($"{value} adlı kategoriyi güncellemek istediğinizden emin misiiz?(e/h)");
                     string gülcellemeSecim = Console.ReadLine();
                     if (gülcellemeSecim == "e")
                     {
@@ -60,7 +63,8 @@ namespace CA_NorthwindDb.Repository
                     //silme
                     Console.Write("Silmek istediğiniz ürün ID'sini giriniz:");
                     int categoryId = int.Parse(Console.ReadLine());
-                    Console.WriteLine($"{categoryId} ID'li kategoriyi silmek istediğinizden emin misiiz?(e/h)");
+                    var value2 = db.Categories.Where(c => c.CategoryID == categoryId).Select(c => c.CategoryName).FirstOrDefault();
+                    Console.WriteLine($"{value2} isimli kategoriyi silmek istediğinizden emin misiiz?(e/h)");
                     string silmeSecim = Console.ReadLine();
                     if(silmeSecim == "e")
                     {

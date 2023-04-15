@@ -1,0 +1,8 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\11.04.2023\CA_HamburgerMenu\CA_HamburgerMenu\bin\Debug\CA_HamburgerMenu.exe.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\11.04.2023\CA_HamburgerMenu\CA_HamburgerMenu\bin\Debug\CA_HamburgerMenu.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\11.04.2023\CA_HamburgerMenu\CA_HamburgerMenu\bin\Debug\CA_HamburgerMenu.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\11.04.2023\CA_HamburgerMenu\CA_HamburgerMenu\obj\Debug\CA_HamburgerMenu.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\11.04.2023\CA_HamburgerMenu\CA_HamburgerMenu\obj\Debug\CA_HamburgerMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\11.04.2023\CA_HamburgerMenu\CA_HamburgerMenu\obj\Debug\CA_HamburgerMenu.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\11.04.2023\CA_HamburgerMenu\CA_HamburgerMenu\obj\Debug\CA_HamburgerMenu.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\OOP\11.04.2023\CA_HamburgerMenu\CA_HamburgerMenu\obj\Debug\CA_HamburgerMenu.pdb

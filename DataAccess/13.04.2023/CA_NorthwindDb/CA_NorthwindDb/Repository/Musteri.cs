@@ -10,6 +10,8 @@ namespace CA_NorthwindDb.Repository
 {
     internal class Musteri
     {
+        NORTHWNDEntities db = new NORTHWNDEntities();
+
         CustomerCrud customerCrud = new CustomerCrud();
 
         public void MusteriIslemleri()
@@ -25,7 +27,7 @@ namespace CA_NorthwindDb.Repository
                     //Listeleme
                     foreach (Customer customer in customerCrud.GetCustomers())
                     {
-                        string format = $"{customer.CompanyName} {customer.ContactName} {customer.ContactTitle} {customer.City} ";
+                        string format = $"{customer.CustomerID} {customer.CompanyName} {customer.ContactName} {customer.ContactTitle} {customer.City} ";
                         Console.WriteLine(format);
                     }
                     break;
@@ -47,7 +49,8 @@ namespace CA_NorthwindDb.Repository
                     updateCustomer.ContactName = Console.ReadLine();
                     Console.Write("Lütfen şehir bilgisini giriniz:");
                     updateCustomer.City = Console.ReadLine();
-                    Console.WriteLine($"{updateCustomer.CustomerID} ID'li müşteriyi güncellemek istediğinizden emin misiiz?(e/h)");
+                    var value=db.Customers.Where(x => x.CustomerID == updateCustomer.CustomerID).Select(x => x.CompanyName).FirstOrDefault();
+                    Console.WriteLine($"{value} isimli müşteriyi güncellemek istediğinizden emin misiiz?(e/h)");
                     string gülcellemeSecim = Console.ReadLine();
                     if (gülcellemeSecim == "e")
                     {
@@ -63,7 +66,8 @@ namespace CA_NorthwindDb.Repository
                     //silme
                     Console.Write("Silmek istediğiniz ürün ID'sini giriniz:");
                     int customerId = int.Parse(Console.ReadLine());
-                    Console.WriteLine($"{customerId} ID'li müşteriyi silmek istediğinizden emin misiiz?(e/h)");
+                    var value2 = db.Customers.Where(x => x.CustomerID == "customerId").Select(x => x.CompanyName).FirstOrDefault();
+                    Console.WriteLine($"{value2} isimli müşteriyi silmek istediğinizden emin misiiz?(e/h)");
                     string silmeSecim = Console.ReadLine();
                     if( silmeSecim == "e")
                     {

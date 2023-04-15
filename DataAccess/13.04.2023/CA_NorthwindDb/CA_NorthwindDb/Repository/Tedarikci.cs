@@ -10,6 +10,8 @@ namespace CA_NorthwindDb.Repository
 {
     internal class Tedarikci
     {
+        NORTHWNDEntities db = new NORTHWNDEntities();
+
         SupplierCrud supplierCrud = new SupplierCrud();
         
         public void TedarikciIslemleri()
@@ -47,7 +49,8 @@ namespace CA_NorthwindDb.Repository
                     updateSuppleir.ContactName = Console.ReadLine();
                     Console.Write("Lütfen şehir bilgisini giriniz:");
                     updateSuppleir.City = Console.ReadLine();
-                    Console.WriteLine($"{updateSuppleir.SupplierID} ID'li müşteriyi güncellemek istediğinizden emin misiiz?(e/h)");
+                    var value=db.Suppliers.Where(x => x.SupplierID == updateSuppleir.SupplierID).Select(x => x.CompanyName).FirstOrDefault();
+                    Console.WriteLine($"{value} isimli tedarikçiyi güncellemek istediğinizden emin misiiz?(e/h)");
                     string gülcellemeSecim = Console.ReadLine();
                     if (gülcellemeSecim == "e")
                     {
@@ -63,7 +66,8 @@ namespace CA_NorthwindDb.Repository
                     //silme
                     Console.Write("Silmek istediğiniz ürün ID'sini giriniz:");
                     int supplierId = int.Parse(Console.ReadLine());
-                    Console.WriteLine($"{supplierId} ID'li tedarikçiyi silmek istediğinizden emin misiiz?(e/h)");
+                    var value2 = db.Suppliers.Where(x => x.SupplierID == supplierId).Select(x => x.CompanyName).FirstOrDefault();
+                    Console.WriteLine($"{value2} isimli tedarikçiyi silmek istediğinizden emin misiiz?(e/h)");
                     string silmeSecim = Console.ReadLine();
                     if (silmeSecim == "e")
                     {

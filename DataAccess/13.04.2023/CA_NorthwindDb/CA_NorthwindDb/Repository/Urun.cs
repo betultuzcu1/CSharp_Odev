@@ -10,6 +10,8 @@ namespace CA_NorthwindDb.Repository
 {
     internal class Urun
     {
+        NORTHWNDEntities db = new NORTHWNDEntities();
+
         ProductCrud productCrud = new ProductCrud();
        
         public void UrunIslmeleri()
@@ -46,8 +48,9 @@ namespace CA_NorthwindDb.Repository
                     Console.Write("Lütfen stok miktarını giriniz:");
                     updateProduct.UnitsInStock = short.Parse(Console.ReadLine());
                     Console.Write("Lütfen ürün fiyatını giriniz:");
+                    var value=db.Products.Where(p => p.ProductID == updateProduct.ProductID).Select(p => p.ProductName).FirstOrDefault();
                     updateProduct.UnitPrice = decimal.Parse(Console.ReadLine());
-                    Console.WriteLine($"{updateProduct.ProductID} ID'li ürünü güncellemek istediğinizden emin misiiz?(e/h)");
+                    Console.WriteLine($"{value} isimli ürünü güncellemek istediğinizden emin misiiz?(e/h)");
                     string gülcellemeSecim= Console.ReadLine();
                     if (gülcellemeSecim == "e")
                     {
@@ -62,8 +65,9 @@ namespace CA_NorthwindDb.Repository
                 case "4":
                     //silme
                     Console.Write("Silmek istediğiniz ürün ID'sini giriniz:");
-                    int productId = int.Parse(Console.ReadLine());                    
-                    Console.WriteLine($"{productId} ID'li ürünü silmek istediğinizden emin misiiz?(e/h)");
+                    int productId = int.Parse(Console.ReadLine());
+                    var value2 = db.Products.Where(p => p.ProductID == productId).Select(p => p.ProductName).FirstOrDefault();
+                    Console.WriteLine($"{value2} isimli ürünü silmek istediğinizden emin misiiz?(e/h)");
                     string silmeSecim=Console.ReadLine();
                     if(silmeSecim == "e")
                     {
