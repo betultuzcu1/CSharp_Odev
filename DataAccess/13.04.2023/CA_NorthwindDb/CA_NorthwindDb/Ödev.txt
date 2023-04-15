@@ -1,0 +1,31 @@
+﻿Ana Menü:
+1-Ürün İşlemleri.
+2-Kategori İşlemleri.
+3-Tedarikçi İşlemleri.
+4-Müşteri İşlemleri.
+5-Sorgular
+	1-Ürünler fiyat sorgusu
+	2-Ürünler fiyat aralığı sorgusu
+	3-Çalışan bilgisi sorgusu
+	4-Kargo durum sorgusu
+	5-Çalışan ikamet sorgusu.
+
+
+//Northwind veritabanının DbFirst yaklaşımı ile bir proje oluşturun.
+
+
+yukarıdaki tablolara kullanıcılan alınan bilgiler doğruldtusunda CRUD işlemi uygulayın.
+
+//uygulanacak olan silme ve güncelleme işlemlerinin öncesinde kullacıdan onay alınacak. 
+Örn: "Chai isimli ürünü silmek istediğinize emin misiniz? (e/h)" h harfi girildiğinde ana menüye dönsün.
+
+
+//Sorgular
+--ürünler tablosundan ürün fiyatı ...'dan büyük olanları listeyin.
+-ürünler tablosundan ürün fiyatı ... ile ... arasında ürünleri listeleyin.
+-Adı .... olan çalışanın bilgilerini listeleyin.
+--kargoya teslim edilmemiş siparişleri listeleyin.
+--....'da yaşayan çalışanları listeleyin.
+
+
+//Kodlama esnasında uygulamada runtime hatasını minimuma indirin.

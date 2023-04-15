@@ -1,0 +1,13 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\DataAccess\13.04.2023\CA_NorthwindDb\CA_NorthwindDb\bin\Debug\CA_NorthwindDb.exe.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\DataAccess\13.04.2023\CA_NorthwindDb\CA_NorthwindDb\bin\Debug\CA_NorthwindDb.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\DataAccess\13.04.2023\CA_NorthwindDb\CA_NorthwindDb\bin\Debug\CA_NorthwindDb.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\DataAccess\13.04.2023\CA_NorthwindDb\CA_NorthwindDb\bin\Debug\EntityFramework.dll
+C:\Users\w10\Desktop\bilgeadamakademi\c#\DataAccess\13.04.2023\CA_NorthwindDb\CA_NorthwindDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\w10\Desktop\bilgeadamakademi\c#\DataAccess\13.04.2023\CA_NorthwindDb\CA_NorthwindDb\bin\Debug\EntityFramework.xml
+C:\Users\w10\Desktop\bilgeadamakademi\c#\DataAccess\13.04.2023\CA_NorthwindDb\CA_NorthwindDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\w10\Desktop\bilgeadamakademi\c#\DataAccess\13.04.2023\CA_NorthwindDb\CA_NorthwindDb\obj\Debug\CA_NorthwindDb.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\DataAccess\13.04.2023\CA_NorthwindDb\CA_NorthwindDb\obj\Debug\CA_NorthwindDb.csproj.SuggestedBindingRedirects.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\DataAccess\13.04.2023\CA_NorthwindDb\CA_NorthwindDb\obj\Debug\CA_NorthwindDb.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\DataAccess\13.04.2023\CA_NorthwindDb\CA_NorthwindDb\obj\Debug\CA_NorthwindDb.csproj.CopyComplete
+C:\Users\w10\Desktop\bilgeadamakademi\c#\DataAccess\13.04.2023\CA_NorthwindDb\CA_NorthwindDb\obj\Debug\CA_NorthwindDb.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\DataAccess\13.04.2023\CA_NorthwindDb\CA_NorthwindDb\obj\Debug\CA_NorthwindDb.pdb
