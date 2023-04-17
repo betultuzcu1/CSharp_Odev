@@ -1,0 +1,13 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\17.04.2023\CA_ImdbDbFirst\CA_ImdbDbFirst\bin\Debug\CA_ImdbDbFirst.exe.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\17.04.2023\CA_ImdbDbFirst\CA_ImdbDbFirst\bin\Debug\CA_ImdbDbFirst.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\17.04.2023\CA_ImdbDbFirst\CA_ImdbDbFirst\bin\Debug\CA_ImdbDbFirst.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\17.04.2023\CA_ImdbDbFirst\CA_ImdbDbFirst\bin\Debug\EntityFramework.dll
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\17.04.2023\CA_ImdbDbFirst\CA_ImdbDbFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\17.04.2023\CA_ImdbDbFirst\CA_ImdbDbFirst\bin\Debug\EntityFramework.xml
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\17.04.2023\CA_ImdbDbFirst\CA_ImdbDbFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\17.04.2023\CA_ImdbDbFirst\CA_ImdbDbFirst\obj\Debug\CA_ImdbDbFirst.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\17.04.2023\CA_ImdbDbFirst\CA_ImdbDbFirst\obj\Debug\CA_ImdbDbFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\17.04.2023\CA_ImdbDbFirst\CA_ImdbDbFirst\obj\Debug\CA_ImdbDbFirst.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\17.04.2023\CA_ImdbDbFirst\CA_ImdbDbFirst\obj\Debug\CA_ImdbDbFirst.csproj.CopyComplete
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\17.04.2023\CA_ImdbDbFirst\CA_ImdbDbFirst\obj\Debug\CA_ImdbDbFirst.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\17.04.2023\CA_ImdbDbFirst\CA_ImdbDbFirst\obj\Debug\CA_ImdbDbFirst.pdb

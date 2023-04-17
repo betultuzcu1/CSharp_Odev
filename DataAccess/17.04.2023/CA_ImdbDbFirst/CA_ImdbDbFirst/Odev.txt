@@ -1,0 +1,35 @@
+﻿//IMDB veritabanı'nın yansımasını aldıktan sonra aşağıdaki işlemleri tanımlayın;
+
+//filmler listelensin.
+//CRUD
+//puanı 70 ile 100 arasında olanlar filmler listelensin.
+//dışarıdan alınan türe ait filmler listelensin.
+//Rastgele bir film getirilsin.
+______________________________________________________________
+
+//ÖDEV
+
+//filmler 100'er 100'er listelensin.
+
+/*
+
+1	Film Adı
+2	Film Adı
+3	Film Adı
+.
+.
+100	Film Adı
+Devam etmek için bir tuşa basın.
+101	Film Adı
+102	Film Adı
+200 Film Adı
+Devam etmek için bir tuşa basın.
+*/
+
+//kullanıcı girişi yapıldıktan sonra...
+	//Pazartesi => Rastgele türü dram
+	//Salı		=> Rastgele türü sci-fi
+	//Çarşamba => Rastgele türü horror
+	//Perşembe => Rastgele türü Comedy
+	//Cuma		=> Rastgele türü Action
+	//Cumartesi => Rastgele türü Romantic
