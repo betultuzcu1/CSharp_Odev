@@ -84,10 +84,11 @@ namespace CA_ImdbDbFirst.ConsoleSpec
                     break;
                 case 3:
                     Console.Write("Lütfen film türü giriniz:");
-                    string genres=Console.ReadLine();
-                    foreach (Movy movie in movieRepository.FindMovyByGenres(genres));
+                    string turAdı=Console.ReadLine();
+                    var sonuc = db.Genres.Where(x => x.Name.Contains(turAdı)).ToList();
+                    foreach (var tur in sonuc.ToList())
                     {
-                        Console.WriteLine();
+                        Console.WriteLine(tur.Id+" "+tur.Name);
                     }
 
                     break;
