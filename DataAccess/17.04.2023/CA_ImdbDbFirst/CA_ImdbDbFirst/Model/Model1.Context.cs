@@ -13,10 +13,10 @@ namespace CA_ImdbDbFirst.Model
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class ImdbDataEntities1 : DbContext
+    public partial class ImdbDataEntities4 : DbContext
     {
-        public ImdbDataEntities1()
-            : base("name=ImdbDataEntities1")
+        public ImdbDataEntities4()
+            : base("name=ImdbDataEntities4")
         {
         }
     

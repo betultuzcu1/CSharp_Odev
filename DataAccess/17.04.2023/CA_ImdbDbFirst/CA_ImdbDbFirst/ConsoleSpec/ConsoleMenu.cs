@@ -47,7 +47,7 @@ namespace CA_ImdbDbFirst.ConsoleSpec
         }
 
         private static object date;
-        ImdbDataEntities1 db=new ImdbDataEntities1();
+        ImdbDataEntities4 db=new ImdbDataEntities4();
         public static void MovieSelectMenu()
         {
             Console.WriteLine("IMDB MENU");
@@ -62,7 +62,7 @@ namespace CA_ImdbDbFirst.ConsoleSpec
 
         public static void SelectedMenu(int selected)
         {
-            ImdbDataEntities1 db = new ImdbDataEntities1();
+            ImdbDataEntities4 db = new ImdbDataEntities4();
 
             MovieRepository movieRepository = new MovieRepository();
             switch (selected)

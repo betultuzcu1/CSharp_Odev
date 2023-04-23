@@ -1,0 +1,3 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\CA_ToursDbNTier\obj\Debug\CA_ToursDbNTier.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\CA_ToursDbNTier\obj\Debug\CA_ToursDbNTier.csproj.SuggestedBindingRedirects.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\CA_ToursDbNTier\obj\Debug\CA_ToursDbNTier.csproj.CoreCompileInputs.cache

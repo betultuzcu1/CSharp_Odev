@@ -12,7 +12,7 @@ namespace CA_ImdbDbFirst.Repository
 {
     internal class MovieRepository : IMovieRepository
     {
-        ImdbDataEntities1 db=new ImdbDataEntities1();
+        ImdbDataEntities4 db=new ImdbDataEntities4();
         public string CreateMovy(Movy movie)
         {
             throw new NotImplementedException();

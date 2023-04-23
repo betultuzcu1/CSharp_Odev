@@ -1,0 +1,12 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\DataAcsessLayer\bin\Debug\DataAcsessLayer.dll.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\DataAcsessLayer\bin\Debug\DataAcsessLayer.dll
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\DataAcsessLayer\bin\Debug\DataAcsessLayer.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\DataAcsessLayer\bin\Debug\EntityFramework.dll
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\DataAcsessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\DataAcsessLayer\bin\Debug\EntityFramework.xml
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\DataAcsessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\DataAcsessLayer\obj\Debug\DataAcsessLayer.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\DataAcsessLayer\obj\Debug\DataAcsessLayer.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\DataAcsessLayer\obj\Debug\DataAcsessLayer.csproj.CopyComplete
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\DataAcsessLayer\obj\Debug\DataAcsessLayer.dll
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\DataAcsessLayer\obj\Debug\DataAcsessLayer.pdb

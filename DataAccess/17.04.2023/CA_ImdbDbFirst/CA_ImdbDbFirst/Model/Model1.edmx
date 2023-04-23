@@ -441,7 +441,7 @@
           <End Role="Genres" Type="Self.Genre" Multiplicity="*" />
           <End Role="Movies" Type="Self.Movy" Multiplicity="*" />
         </Association>
-        <EntityContainer Name="ImdbDataEntities1" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="ImdbDataEntities4" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="C__MigrationHistory" EntityType="Self.C__MigrationHistory" />
           <EntitySet Name="Casts" EntityType="Self.Cast" />
           <EntitySet Name="Comments" EntityType="Self.Comment" />
@@ -486,7 +486,7 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="ImdbDataModelStoreContainer" CdmEntityContainer="ImdbDataEntities1">
+        <EntityContainerMapping StorageEntityContainer="ImdbDataModelStoreContainer" CdmEntityContainer="ImdbDataEntities4">
           <EntitySetMapping Name="C__MigrationHistory">
             <EntityTypeMapping TypeName="ImdbDataModel.C__MigrationHistory">
               <MappingFragment StoreEntitySet="__MigrationHistory">

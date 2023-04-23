@@ -1,0 +1,15 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\bin\Debug\DataAcsessLayer.dll
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\bin\Debug\DataAcsessLayer.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\bin\Debug\DataAcsessLayer.dll.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\DataAccess\19.04.2023\NtierArchitectureTour\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
