@@ -53,7 +53,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsoleSpec\ConsoleMenu.cs" />
     <Compile Include="CRUD\CustomerCrud.cs" />
+    <Compile Include="CRUD\GuideCrud.cs" />
+    <Compile Include="CRUD\PaymentCrud.cs" />
+    <Compile Include="CRUD\ReservationCrud.cs" />
+    <Compile Include="CRUD\TourCrud.cs" />
+    <Compile Include="CRUD\TourLocationCrud.cs" />
+    <Compile Include="CRUD\TourTypeCrud.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\CustomerVM.cs" />

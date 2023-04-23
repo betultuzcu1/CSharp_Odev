@@ -15,7 +15,7 @@ namespace DataAcsessLayer.Options
         public CustomerMap() 
         {
             Property(x=>x.FullName).HasMaxLength(250).IsRequired();
-            Property(x => x.EMail).HasMaxLength(50).IsOptional();
+            Property(x => x.Email).HasMaxLength(50).IsOptional();
             Property(x => x.PhoneNumber).HasMaxLength(11).IsRequired();
 
         }
