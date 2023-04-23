@@ -20,7 +20,7 @@ namespace BusinessLogicLayer.DesingPatterns.GenericRepository.BaseRep
 
         void Save()
         {
-            _db.SaveChanges();
+            _db.SaveChanges();//datetime yüzünden hata veriyorrr!!!
         }
 
         public void Add(T item)

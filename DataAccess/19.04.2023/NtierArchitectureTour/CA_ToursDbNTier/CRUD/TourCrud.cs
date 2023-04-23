@@ -32,9 +32,9 @@ namespace CA_ToursDbNTier.CRUD
             Console.Write("Eklemek istediğiniz tur kapasite bilgisini giriniz:");
             tour.Capacity=short.Parse(Console.ReadLine());
             Console.Write("Eklemek istediğiniz tur başlangıç tarihini giriniz:");
-            tour.StartDate=DateTime.Now;
+            tour.StartDate=DateTime.Parse(Console.ReadLine());
             Console.Write("Eklemek istediğiniz tur bitiş tarihini giriniz:");
-            tour.EndDate=DateTime.Now;
+            tour.EndDate=DateTime.Parse(Console.ReadLine());
             tourRepository.Add(tour);
         }
 
