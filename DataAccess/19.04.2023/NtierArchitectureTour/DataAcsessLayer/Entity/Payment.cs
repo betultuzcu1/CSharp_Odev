@@ -8,7 +8,7 @@ namespace DataAcsessLayer.Entity
 {
     public class Payment:BaseClass
     {
-        public DateTime PaymentDate { get; set; }
+        //public DateTime PaymentDate { get; set; }
         public decimal Price { get; set; }
 
         //Mapping

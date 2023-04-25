@@ -17,7 +17,7 @@ namespace CA_ToursDbNTier.CRUD
         {
             foreach (Reservation reservation in _reservationRepository.GetAll())
             {
-                Console.WriteLine(reservation.Id + " " + reservation.ReservationDate );
+                Console.WriteLine(reservation.Id/* + " " +reservation.ReservationDate*/ );
             }
         }
 
@@ -25,8 +25,8 @@ namespace CA_ToursDbNTier.CRUD
         public void AddReservations(ReservationRepository reservationRepository)
         {
             Reservation reservation = new Reservation();
-            Console.Write("Eklemek istediğiniz reservasyon tarihini giriniz:");
-            reservation.ReservationDate = DateTime.Now;
+            //Console.Write("Eklemek istediğiniz reservasyon tarihini giriniz:");
+            //reservation.ReservationDate = DateTime.Parse(Console.ReadLine());
             Console.Write("Eklemek istediğiniz rezervasyon ücretini giriniz:");
             reservationRepository.Add(reservation);
         }
@@ -46,8 +46,8 @@ namespace CA_ToursDbNTier.CRUD
             Console.Write("Güncellemek istedğiniz rezervasyon Id numarasını giriniz:");
             int _ıd = int.Parse(Console.ReadLine());
             var reservationValue = reservationRepository.Find(_ıd);
-            Console.Write("Rezervasyon tarihini giriniz:");
-            reservationValue.ReservationDate = DateTime.Now;
+            //Console.Write("Rezervasyon tarihini giriniz:");
+            //reservationValue.ReservationDate = DateTime.Parse(Console.ReadLine());
             Console.Write("Rezervasyon ücretini giriniz:");
             reservationValue.TotalPrice=decimal.Parse(Console.ReadLine());
             reservationRepository.Update(reservationValue);

@@ -17,7 +17,7 @@ namespace CA_ToursDbNTier.CRUD
         {
             foreach (Tour tour in _tourRepository.GetAll())
             {
-                Console.WriteLine(tour.Id + " " + tour.Name + " " + tour.Description + " " + tour.Capacity+" "+tour.StartDate+" "+tour.EndDate+" "+tour.Price);
+                Console.WriteLine(tour.Id + " " + tour.Name + " " + tour.Description + " " + tour.Capacity+/*" "+tour.StartDate+" "+tour.EndDate+" "+*/tour.Price);
             }
         }
 
@@ -32,9 +32,9 @@ namespace CA_ToursDbNTier.CRUD
             Console.Write("Eklemek istediğiniz tur kapasite bilgisini giriniz:");
             tour.Capacity=short.Parse(Console.ReadLine());
             Console.Write("Eklemek istediğiniz tur başlangıç tarihini giriniz:");
-            tour.StartDate=DateTime.Parse(Console.ReadLine());
-            Console.Write("Eklemek istediğiniz tur bitiş tarihini giriniz:");
-            tour.EndDate=DateTime.Parse(Console.ReadLine());
+            //tour.StartDate=DateTime.Parse(Console.ReadLine());
+            //Console.Write("Eklemek istediğiniz tur bitiş tarihini giriniz:");
+            //tour.EndDate=DateTime.Parse(Console.ReadLine());
             tourRepository.Add(tour);
         }
 
@@ -61,10 +61,10 @@ namespace CA_ToursDbNTier.CRUD
             tourValue.Capacity = short.Parse(Console.ReadLine());
             Console.Write("Tur ücret bilgisini giriniz:");
             tourValue.Price = decimal.Parse(Console.ReadLine());
-            Console.Write("Tur başlangıç tarihini giriniz:");
-            tourValue.StartDate = DateTime.Now;
-            Console.Write("Tur bitiş tarihini giriniz:");
-            tourValue.EndDate = DateTime.Now;
+            //Console.Write("Tur başlangıç tarihini giriniz:");
+            //tourValue.StartDate = DateTime.Parse(Console.ReadLine());
+            //Console.Write("Tur bitiş tarihini giriniz:");
+            //tourValue.EndDate = DateTime.Parse(Console.ReadLine());
             tourRepository.Update(tourValue);
         }
     }
