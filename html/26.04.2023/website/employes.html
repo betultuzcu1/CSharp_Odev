@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employees</title>
+    <link rel="stylesheet" href="bootstrap.css">
+</head>
+<body>
+     <!--Novbar-->
+     <div>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="home_page.html">Northwind</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
+                    aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarScroll">
+                    <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="h">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="product.html">Products</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="customers.html">Customers</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="orders.html">Orders</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="employes.html">Employees</a>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                  <input class="btn btn-primary" type="submit" value="Login">
+                    <button type="button" class="btn btn-link" style="color: white;"><a href="register.html" style="color: white;">Register</a></button>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <nav class="navbar bg-body-tertiary">
+        <div class="container-fluid">
+            <h3>Employee List</h3>
+            <button type="button" class="btn btn-success">New Employee</button>
+        </div>
+      </nav>
+    <div>
+    <table class="table">
+        <thead class="table-light">
+          <tr>
+            <th scope="col">ID</th>
+            <th scope="col">FirstName</th>
+            <th scope="col">LastName</th>
+            <th scope="col">Title</th>
+            <th scope="col">TitleofCourtesy</th>
+            <th scope="col">City</th>
+            <th scope="col">Options</th>
+            
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">1</th>
+            <td>Nancy</td>
+            <td>Andrew</td>
+            <td>Sales Representative</td>
+            <td>Ms.</td>
+            <td>Seattle</td>
+            <td>
+                <button type="button" class="btn btn-warning btn-sm">Update</button>
+                <button type="button" class="btn btn-danger btn-sm" >Delete</button>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2</th>
+            <td>Andrew</td>
+            <td>Fuller</td>
+            <td>Vice President, Sales</td>
+            <td>Dr.</td>
+            <td>Tacoma</td>
+            <td>
+                <button type="button" class="btn btn-warning btn-sm">Update</button>
+                <button type="button" class="btn btn-danger btn-sm" >Delete</button>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">3</th>
+            <td>Andrew</td>
+            <td>Leverling</td>
+            <td>Vice President, Sales</td>
+            <td>Ms.</td>
+            <td>Tacoma</td>
+            <td>
+                <button type="button" class="btn btn-warning btn-sm">Update</button>
+                <button type="button" class="btn btn-danger btn-sm" >Delete</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+</body>
+</html>
