@@ -1,0 +1,8 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\Solid_Srp\OCP\bin\Debug\OCP.exe.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\Solid_Srp\OCP\bin\Debug\OCP.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\Solid_Srp\OCP\bin\Debug\OCP.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\Solid_Srp\OCP\obj\Debug\OCP.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\Solid_Srp\OCP\obj\Debug\OCP.csproj.SuggestedBindingRedirects.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\Solid_Srp\OCP\obj\Debug\OCP.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\Solid_Srp\OCP\obj\Debug\OCP.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\Solid_Srp\OCP\obj\Debug\OCP.pdb

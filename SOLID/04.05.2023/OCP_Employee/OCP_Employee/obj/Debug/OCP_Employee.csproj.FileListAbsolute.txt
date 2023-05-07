@@ -1,0 +1,8 @@
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\04.05.2023\OCP_Employee\OCP_Employee\bin\Debug\OCP_Employee.exe.config
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\04.05.2023\OCP_Employee\OCP_Employee\bin\Debug\OCP_Employee.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\04.05.2023\OCP_Employee\OCP_Employee\bin\Debug\OCP_Employee.pdb
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\04.05.2023\OCP_Employee\OCP_Employee\obj\Debug\OCP_Employee.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\04.05.2023\OCP_Employee\OCP_Employee\obj\Debug\OCP_Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\04.05.2023\OCP_Employee\OCP_Employee\obj\Debug\OCP_Employee.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\04.05.2023\OCP_Employee\OCP_Employee\obj\Debug\OCP_Employee.exe
+C:\Users\w10\Desktop\bilgeadamakademi\c#\OOP\SOLID\04.05.2023\OCP_Employee\OCP_Employee\obj\Debug\OCP_Employee.pdb
