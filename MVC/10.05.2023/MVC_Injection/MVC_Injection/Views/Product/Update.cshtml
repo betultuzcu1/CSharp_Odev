@@ -1,0 +1,20 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<form asp-action="Update" asp-controller="Product">
+    <div>
+        <label>Ürün Adı</label>
+        <input class="form-control" value="@Model.ProductName" asp-for="ProductName" />
+    </div>
+    <div>
+        <label>Ürün Fiyat</label>
+        <input class="form-control" value="@Model.UnitPrice" asp-for="UnitPrice" />
+    </div>
+
+    <button type="submit" class="btn btn-warning">Güncelle</button>
+</form>
+

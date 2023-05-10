@@ -1,0 +1,20 @@
+﻿@model Supplier
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <form asp-action="Update" asp-controller="Supplier">
+    <div>
+        <label>Company Name</label>
+        <input class="form-control" value="@Model.CompanyName" asp-for="CompanyName" />
+    </div>
+    <div>
+        <label>Contact Name</label>
+        <input class="form-control" value="@Model.ContactName" asp-for="ContactName" />
+    </div>
+
+    <button type="submit" class="btn btn-warning">Güncelle</button>
+</form>
+</div>

@@ -1,0 +1,34 @@
+﻿@model List<Supplier>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Company Name</th>
+            <th>Contact Name Name</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <!--Foreach-->
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.ID</td>
+                <td>@p.CompanyName</td>
+                <td>@p.ContactName</td>
+                <td>
+                    <a asp-action="delete" asp-controller="Supplier" asp-route-id="@p.ID" class="btn btn-danger">Sil</a>
+                    <a asp-action="update" asp-controller="Supplier" asp-route-id="@p.ID" class="btn-outline-warning">Güncelle</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="create" asp-controller="Supplier" class="btn btn-primary">Tadarikçi Ekle</a>
+
+
