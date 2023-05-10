@@ -29,7 +29,9 @@ namespace MVC_Injection.Controllers
        
         public IActionResult Create(Supplier supplier)
         {
-            _supplierRepository.GetSuppliers().Add(supplier);
+            _supplierRepository.AddSupplier(supplier);
+
+            
 
 
             return RedirectToAction("Index", new { id = supplier.ID });

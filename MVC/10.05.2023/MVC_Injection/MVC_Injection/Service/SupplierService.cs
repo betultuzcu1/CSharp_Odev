@@ -8,12 +8,13 @@ namespace MVC_Injection.Service
     {
         public void AddSupplier(Supplier supplier)
         {
-            throw new NotImplementedException();
+            SupplierData.suppliers.Add(supplier);
         }
 
         public List<Supplier> GetSuppliers()
         {
             return SupplierData.suppliers.ToList();
         }
+
     }
 }
