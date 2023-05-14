@@ -1,0 +1,43 @@
+﻿@using Northwind_Odev_Mvc.Models
+@model List<Customer>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+    <div class="card">
+  <div class="card-header">
+    <h4>Customer</h4>
+  </div>
+  <div class="card-body">
+    <a asp-action="CreateCustomer" asp-controller="Customer"  class="btn btn-primary btn-sm">Add Customer</a>
+  </div>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">CustomerId</th>
+      <th scope="col">CompanyName</th>
+      <th scope="col">ContactName</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.CustomerId</td>
+                <td>@customer.CompanyName</td>
+                <td>@customer.ContactName</td>
+                <td>
+                    <a asp-action="DeleteCustomer" asp-controller="Customer" asp-route-id="@customer.CustomerId" class="btn btn-danger btn-sm">Delete</a>
+                    <a asp-action="UpdateCustomer" asp-controller="Customer" asp-route-id="@customer.CustomerId" class="btn btn-warning btn-sm">Update</a>
+                </td>
+            </tr>
+        }
+  </tbody>
+</table>
+</div>
+
+

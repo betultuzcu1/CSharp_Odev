@@ -17,13 +17,13 @@ namespace Northwind_Odev_Mvc.Controllers
       
 
         //Create
-        [HttpGet]//hiçbir şey yapmazsam müşteri tekrar listele
+        [HttpGet]
         public IActionResult CreateEmployee()
         {
             return View();
 
         }
-        [HttpPost]//kaydet butonuna basarsam yeni müşteri  ekle
+        [HttpPost]
 
         public IActionResult CreateEmployee(Employee employee)
         {

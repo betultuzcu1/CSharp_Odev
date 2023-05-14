@@ -71,10 +71,11 @@ namespace Northwind_Odev_Mvc.Controllers
         public IActionResult UpdateCategory(Category category)
         {
             var updated = db.Categories.Find(category.CategoryId);
-            if(updated != null)
+            if (updated != null)
             {
-                updated.CategoryName= category.CategoryName;
-                updated.Description= category.Description;
+                // Kategori adını güncelleme işlemi
+                updated.CategoryName = category.CategoryName;
+                updated.Description = category.Description;
                 db.SaveChanges();
             }
             else
@@ -82,7 +83,8 @@ namespace Northwind_Odev_Mvc.Controllers
                 TempData["Error"] = "Böyle bir kategori bulunamadı!";
                 return RedirectToAction("Index", "Category");
             }
-            return RedirectToAction("Index","Category");
+            return RedirectToAction("Index", "Category");
         }
+
     }
 }
