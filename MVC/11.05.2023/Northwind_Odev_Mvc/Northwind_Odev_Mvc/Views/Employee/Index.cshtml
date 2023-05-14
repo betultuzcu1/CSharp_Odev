@@ -1,0 +1,45 @@
+﻿
+@using Northwind_Odev_Mvc.Models
+@model List<Employee>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <div class="card">
+  <div class="card-header">
+    <h4>Employee</h4>
+  </div>
+  <div class="card-body">
+    <a asp-action="CreateEmployee" asp-controller="Employee"  class="btn btn-primary btn-sm">Add Employee</a>
+  </div>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">EmployeeId</th>
+      <th scope="col">LastName</th>
+      <th scope="col">FirstName</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var category in Model)
+        {
+            <tr>
+                <td>@category.EmployeeId</td>
+                <td>@category.LastName</td>
+                <td>@category.FirstName</td>
+                <td>
+                    <a asp-action="DeleteCategory" asp-controller="Category" asp-route-id="@category.EmployeeId" class="btn btn-danger btn-sm">Delete</a>
+                    <a asp-action="UpdateCategory" asp-controller="Category" asp-route-id="@category.EmployeeId" class="btn btn-warning btn-sm">Update</a>
+                </td>
+            </tr>
+        }
+  </tbody>
+</table>
+</div>
+
+
+
+

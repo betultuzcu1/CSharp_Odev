@@ -1,0 +1,9 @@
+--Product
+--Category
+--Supplier
+--Customer
+--Employee
+
+--Sınıfın %10'u bu ödevi yaptığında Orders ve OrderDetails işlemlerini beraber yapacağız.
+
+
