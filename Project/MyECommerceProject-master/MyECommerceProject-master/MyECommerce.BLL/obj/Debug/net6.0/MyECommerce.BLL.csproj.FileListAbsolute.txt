@@ -1,0 +1,17 @@
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\bin\Debug\net6.0\MyECommerce.BLL.deps.json
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\bin\Debug\net6.0\MyECommerce.BLL.dll
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\bin\Debug\net6.0\MyECommerce.BLL.pdb
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\bin\Debug\net6.0\MyECommerce.DAL.dll
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\bin\Debug\net6.0\MyECommerce.Entity.dll
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\bin\Debug\net6.0\MyECommerce.DAL.pdb
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\bin\Debug\net6.0\MyECommerce.Entity.pdb
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\obj\Debug\net6.0\MyECommerce.BLL.csproj.AssemblyReference.cache
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\obj\Debug\net6.0\MyECommerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\obj\Debug\net6.0\MyECommerce.BLL.AssemblyInfoInputs.cache
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\obj\Debug\net6.0\MyECommerce.BLL.AssemblyInfo.cs
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\obj\Debug\net6.0\MyECommerce.BLL.csproj.CoreCompileInputs.cache
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\obj\Debug\net6.0\MyECommerce.BLL.csproj.CopyComplete
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\obj\Debug\net6.0\MyECommerce.BLL.dll
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\obj\Debug\net6.0\refint\MyECommerce.BLL.dll
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\obj\Debug\net6.0\MyECommerce.BLL.pdb
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.BLL\obj\Debug\net6.0\ref\MyECommerce.BLL.dll

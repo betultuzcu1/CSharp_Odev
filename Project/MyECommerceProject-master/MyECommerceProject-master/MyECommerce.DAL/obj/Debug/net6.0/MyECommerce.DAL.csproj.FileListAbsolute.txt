@@ -1,0 +1,17 @@
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\bin\Debug\net6.0\MyECommerce.DAL.deps.json
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\bin\Debug\net6.0\MyECommerce.DAL.runtimeconfig.json
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\bin\Debug\net6.0\MyECommerce.DAL.dll
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\bin\Debug\net6.0\MyECommerce.DAL.pdb
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\bin\Debug\net6.0\MyECommerce.Entity.dll
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\bin\Debug\net6.0\MyECommerce.Entity.pdb
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\obj\Debug\net6.0\MyECommerce.DAL.csproj.AssemblyReference.cache
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\obj\Debug\net6.0\MyECommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\obj\Debug\net6.0\MyECommerce.DAL.AssemblyInfoInputs.cache
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\obj\Debug\net6.0\MyECommerce.DAL.AssemblyInfo.cs
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\obj\Debug\net6.0\MyECommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\obj\Debug\net6.0\MyECommerce.DAL.csproj.CopyComplete
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\obj\Debug\net6.0\MyECommerce.DAL.dll
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\obj\Debug\net6.0\refint\MyECommerce.DAL.dll
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\obj\Debug\net6.0\MyECommerce.DAL.pdb
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\obj\Debug\net6.0\MyECommerce.DAL.genruntimeconfig.cache
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.DAL\obj\Debug\net6.0\ref\MyECommerce.DAL.dll

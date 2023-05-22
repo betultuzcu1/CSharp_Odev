@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<table class="table table-striped">
+   <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Product Name</th>
+      <th scope="col">Unit Price</th>
+      <th scope="col">Unit In Stock</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Chai</td>
+      <td>18</td>
+      <td>39</td>
+      <td>
+                    <a asp-action="delete" asp-controller="Supplier" asp-route-id="" class="btn btn-danger">Sil</a>
+                    <a asp-action="update" asp-controller="Supplier" asp-route-id="" class="btn btn-secondary">Güncelle</a>
+     </td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Chang</td>
+      <td>19</td>
+      <td>17</td>
+      <td>
+                    <a asp-action="delete" asp-controller="Supplier" asp-route-id="" class="btn btn-danger">Sil</a>
+                    <a asp-action="update" asp-controller="Supplier" asp-route-id="" class="btn btn-secondary">Güncelle</a>
+     </td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Aniseed Syrup</td>
+      <td>10</td>
+      <td>13</td>
+      <td>
+                    <a asp-action="delete" asp-controller="Supplier" asp-route-id="" class="btn btn-danger">Sil</a>
+                    <a asp-action="update" asp-controller="Supplier" asp-route-id="" class="btn btn-secondary">Güncelle</a>
+     </td>
+    </tr>
+
+  </tbody>
+</table>
+

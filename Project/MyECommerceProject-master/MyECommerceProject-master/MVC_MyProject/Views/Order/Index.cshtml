@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <th scope="col">Sıparısler</th>
+            <th scope="col">Employee Id</th>
+            <th scope="col">Customer Id</th>
+            <th scope="col"> Id</th>
+
+            <th scope="col">Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">1</th>
+            <td>Çalısan Id</td>
+            <td>Müşteri</td>
+            <td>Siparis tarihi</td>
+            <td 
+                <a asp-action="AddToCart" asp-controller="Home" class="btn btn-outline-dark">Details</a>
+            </td>
+        </tr>
+
+        @* @foreach ( var gelen in Model) {  // model gelmediği için ürünleri gösteremşyorum
+
+            <tr>
+                <th scope="row">1</th>
+                <td>1</td>
+                <td>Çalısan</td>
+                <td>Müşteri</td>
+                <td>siparis tarihi</td>
+            </tr>
+       }*@
+
+    </tbody>
+</table>
+
+

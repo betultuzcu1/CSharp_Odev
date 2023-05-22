@@ -1,0 +1,12 @@
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.Entity\bin\Debug\net6.0\MyECommerce.Entity.deps.json
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.Entity\bin\Debug\net6.0\MyECommerce.Entity.dll
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.Entity\bin\Debug\net6.0\MyECommerce.Entity.pdb
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.Entity\obj\Debug\net6.0\MyECommerce.Entity.csproj.AssemblyReference.cache
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.Entity\obj\Debug\net6.0\MyECommerce.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.Entity\obj\Debug\net6.0\MyECommerce.Entity.AssemblyInfoInputs.cache
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.Entity\obj\Debug\net6.0\MyECommerce.Entity.AssemblyInfo.cs
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.Entity\obj\Debug\net6.0\MyECommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.Entity\obj\Debug\net6.0\MyECommerce.Entity.dll
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.Entity\obj\Debug\net6.0\refint\MyECommerce.Entity.dll
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.Entity\obj\Debug\net6.0\MyECommerce.Entity.pdb
+C:\Users\w10\Downloads\MyECommerceProject-master\MyECommerceProject-master\MyECommerce.Entity\obj\Debug\net6.0\ref\MyECommerce.Entity.dll

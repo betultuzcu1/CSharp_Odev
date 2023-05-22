@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<table class="table table-bordered">
+
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Order Detail #</th>
+            <th scope="col">ProductName</th>
+            <th scope="col">Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+       
+            // Model değişkenini kullanmaya devam edin
+            
+                        <tr>
+                            <th scope="row">OrderId</th>
+                            <td>OrderDetailId</td>
+                            <td>ProductName</td>
+                            <td>.Quantity</td>
+                            <td><a asp-action="Detail" asp-controller="Order" class="btn btn-outline-dark">Detail</a></td>
+                        </tr>
+            
+        
+        </tbody>
+        </table>
+

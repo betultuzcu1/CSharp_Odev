@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table table-striped">
+   <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Category Name</th>
+      <th scope="col">Description</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Beverages</td>
+      <td>Soft drinks, coffees, teas, beers, and ales</td>
+      <td>
+                    <a asp-action="delete" asp-controller="Supplier" asp-route-id="" class="btn btn-danger">Sil</a>
+                    <a asp-action="update" asp-controller="Supplier" asp-route-id="" class="btn btn-secondary">Güncelle</a>
+     </td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Condiments</td>
+      <td>Sweet and savory sauces, relishes, spreads, and seasonings</td>
+      <td>
+                    <a asp-action="delete" asp-controller="Supplier" asp-route-id="" class="btn btn-danger">Sil</a>
+                    <a asp-action="update" asp-controller="Supplier" asp-route-id="" class="btn btn-secondary">Güncelle</a>
+     </td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Confections</td>
+      <td>Desserts, candies, and sweet breads</td>
+      <td>
+                    <a asp-action="delete" asp-controller="Supplier" asp-route-id="" class="btn btn-danger">Sil</a>
+                    <a asp-action="update" asp-controller="Supplier" asp-route-id="" class="btn btn-secondary">Güncelle</a>
+     </td>
+    </tr>
+
+    <tr>
+      <th scope="row">4</th>
+      <td>Dairy Products</td>
+      <td>Cheeses</td>
+      <td>
+                    <a asp-action="delete" asp-controller="Supplier" asp-route-id="" class="btn btn-danger">Sil</a>
+                    <a asp-action="update" asp-controller="Supplier" asp-route-id="" class="btn btn-secondary">Güncelle</a>
+     </td>
+    </tr>
+
+    <tr>
+      <th scope="row">5</th>
+      <td>Grains/Cereals</td>
+      <td>Breads, crackers, pasta, and cereal</td>
+      <td>
+                    <a asp-action="delete" asp-controller="Supplier" asp-route-id="" class="btn btn-danger">Sil</a>
+                    <a asp-action="update" asp-controller="Supplier" asp-route-id="" class="btn btn-secondary">Güncelle</a>
+     </td>
+    </tr>
+
+  </tbody>
+</table>

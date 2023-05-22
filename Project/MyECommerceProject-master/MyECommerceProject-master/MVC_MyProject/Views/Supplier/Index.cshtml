@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table table-striped">
+   <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Company Name</th>
+      <th scope="col">Contact Name</th>
+      <th scope="col">Contact Title</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Exotic Liquids</td>
+      <td>Charlotte Cooper</td>
+      <td>Purchasing Manager</td>
+      <td>
+                    <a asp-action="delete" asp-controller="Supplier" asp-route-id="" class="btn btn-danger">Sil</a>
+                    <a asp-action="update" asp-controller="Supplier" asp-route-id="" class="btn btn-secondary">Güncelle</a>
+     </td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>New Orleans Cajun Delights</td>
+      <td>Shelley Burke</td>
+      <td>Order Administrator</td>
+      <td>
+                    <a asp-action="delete" asp-controller="Supplier" asp-route-id="" class="btn btn-danger">Sil</a>
+                    <a asp-action="update" asp-controller="Supplier" asp-route-id="" class="btn btn-secondary">Güncelle</a>
+     </td>
+    </tr>
+    
+  </tbody>
+</table>
+
